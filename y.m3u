@@ -1,0 +1,127 @@
+#EXTM3U 
+
+#EXTINF:-0 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615565947567534080/2RA3y7Zh.jpg" group-title="Televisión Digital Terreste",bein Sports HD
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+ 
+#EXTINF:-1, EspañaRadio
+
+https://stream-04.nyc.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A6VquTAS5Nipf0ir1c4wf88)/dm/3/xnm032/s/live-2.m3u8
+
+#EXTINF:-1, Canal PatTV
+http://192.99.38.174:1935/patbolivia/patsantacruz/chunklist_w654893762.m3u8
+
+#EXTINF:-1, Canal RTP Bolivia
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+
+#EXTINF:-1, Canal Bolivia TV 7.2
+http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w1606305192.m3u8
+
+
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, Canal ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,TV PERu (Lima â€“ Peru) (Game Snake Land S. y L.)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,TV PERu (Lima â€“ Peru) (Game Snake Land S. y L.)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,TELEENVIGADO (Envigado Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1, 24 Horas [SD]
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1, Campus TV [HD] (U. de Talca)
+http://unlimited1-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1, El Pinguino [SD] (Punta Arenas)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+#EXTINF:-1, El Pinguino [HD] (Punta Arenas)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:-1, Umag TV [SD] (Punta Arenas)
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+#EXTINF:-1, VTV Aconcagua [HD]
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1, VTV ViÃ±a del Mar [HD]
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, Canal 26 [HD]
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1, Canal 9 Salta[SD]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, Telemax [HD]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1, TV Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
+#EXTINF:-1, Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, Canal 10 Chetumal [HD]
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,  NOTV 41 New Orleans - Louisiana [HD]
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1, Deutsche Welle Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1, France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1, Arirang (Korea)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1, Channel NewsAsia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1,REAL MADRID TV (ESPAÃ±A)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,CARINA TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,TWIT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,CBN ESPAÃ±OL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1,COMUNION TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:-1,CTNI
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1,ENLACE
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:-1,ENLACE JUVENIL
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:-1,ESPERANZA TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:-1,RED AVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:-1,TELEVER CANAL 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:-1, DISCOVERY IDXTRA
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/878
+ 
+#EXTINF:-1, PLANETA ANIMAL
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/899
+
+#EXTINF:-1, NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
+ 
+#EXTINF:-1, HISTORIAL DE VIASAT
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
+ 
+#EXTINF:-1, VIASAT NATURALEZA
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/744
+ 
+#EXTINF:-1, DESCUBRIMIENTO
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/880
+
